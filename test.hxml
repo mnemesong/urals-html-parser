@@ -1,0 +1,4 @@
+--library sneaker
+--class-path src
+--class-path test
+--run Main
